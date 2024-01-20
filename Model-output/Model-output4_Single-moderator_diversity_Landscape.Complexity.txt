@@ -1,0 +1,28 @@
+
+Multivariate Meta-Analysis Model (k = 62; method: REML)
+
+  logLik  Deviance       AIC       BIC      AICc   
+-64.1078  128.2156  138.2156  148.6033  139.3477   
+
+Variance Components:
+
+            estim    sqrt  nlvls  fixed    factor 
+sigma^2.1  0.0194  0.1394     62     no    Obs.ID 
+sigma^2.2  0.3986  0.6314     29     no  StudyNum 
+
+Test for Residual Heterogeneity:
+QE(df = 59) = 162.4145, p-val < .0001
+
+Test of Moderators (coefficients 1:3):
+F(df1 = 3, df2 = 59) = 9.4462, p-val < .0001
+
+Model Results:
+
+                              estimate      se    tval  df    pval   ci.lb   ci.ub      
+Landscape.ComplexityComplex     0.8452  0.2129  3.9699  59  0.0002  0.4192  1.2713  *** 
+Landscape.ComplexityGradient    0.5710  0.2551  2.2381  59  0.0290  0.0605  1.0815    * 
+Landscape.ComplexitySimple      0.7391  0.2203  3.3552  59  0.0014  0.2983  1.1799   ** 
+
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+

@@ -1,0 +1,31 @@
+
+Multivariate Meta-Analysis Model (k = 68; method: REML)
+
+  logLik  Deviance       AIC       BIC      AICc   
+-62.5787  125.1573  141.1573  158.1744  143.8743   
+
+Variance Components:
+
+            estim    sqrt  nlvls  fixed    factor 
+sigma^2.1  0.0000  0.0000     68     no    Obs.ID 
+sigma^2.2  0.1988  0.4459     32     no  StudyNum 
+
+Test for Residual Heterogeneity:
+QE(df = 62) = 121.9024, p-val < .0001
+
+Test of Moderators (coefficients 1:6):
+F(df1 = 6, df2 = 62) = 8.6362, p-val < .0001
+
+Model Results:
+
+                                 estimate      se    tval  df    pval    ci.lb   ci.ub      
+Taxonomic.CategoryBees             0.5929  0.1552  3.8207  62  0.0003   0.2827  0.9030  *** 
+Taxonomic.CategoryBumblebees       0.9314  0.1619  5.7533  62  <.0001   0.6078  1.2550  *** 
+Taxonomic.CategoryButterflies      0.6675  0.1448  4.6092  62  <.0001   0.3780  0.9570  *** 
+Taxonomic.CategoryHoverflies       0.2694  0.1865  1.4443  62  0.1537  -0.1035  0.6423      
+Taxonomic.CategoryMoths            0.2402  0.3498  0.6867  62  0.4948  -0.4591  0.9396      
+Taxonomic.CategorySolitary Bees    0.5914  0.1976  2.9926  62  0.0040   0.1964  0.9864   ** 
+
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+

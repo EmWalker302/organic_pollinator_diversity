@@ -1,0 +1,23 @@
+
+Multivariate Meta-Analysis Model (k = 76; method: REML)
+
+  logLik  Deviance       AIC       BIC      AICc   
+-80.1019  160.2038  166.2038  173.1563  166.5418   
+
+Variance Components:
+
+            estim    sqrt  nlvls  fixed    factor 
+sigma^2.1  0.0161  0.1270     76     no    Obs.ID 
+sigma^2.2  0.3610  0.6008     36     no  StudyNum 
+
+Test for Heterogeneity:
+Q(df = 75) = 188.8119, p-val < .0001
+
+Model Results:
+
+estimate      se    tval  df    pval   ci.lb   ci.ub      
+  0.6839  0.1217  5.6199  75  <.0001  0.4415  0.9263  *** 
+
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+

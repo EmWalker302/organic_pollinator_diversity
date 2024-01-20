@@ -1,0 +1,77 @@
+Reference ID,Taxonomic Category,Edge/Center/Margin,Cropping System ,Landscape Complexity,Latitude..N,Longitude..E,WWF Biome,Sampling Method ,Scale,Con. Mean ,Org. Mean,Con. SD,Org. SD,Con. n,Org. n,Hedges g
+ADHI,Bees,Center,Cereal,Simple,40.23,-110,DXS,Pan Traps,Field,25,27,6,9,9,9,0.249036362
+BOUT,Moths,Center,Mixed,Simple,44.2,-78.4,TBMF,Other,Farm,10.875,12.3375,1.255559067,3.258806749,8,8,0.560512828
+BOUT,Moths,Margin,Mixed,Simple,44.2,-78.4,TBMF,Other,Farm,17.0125,19.4875,1.923120604,4.256234922,8,8,0.749416512
+BRIT,Bees,Center,Perrenial,Simple,45.65,12.42,TBMF,Combination,Field,5.3,5.9,1.71464282,1.469693846,6,6,0.375734575
+BRIT,Pollinating Insects,Center,Perrenial,Simple,45.65,12.42,TBMF,Combination,Field,0.9,1.3,0.489897949,0.734846923,6,6,0.640512615
+CLOU,Bees,Center,Cereal,Gradient,51.58,8.17,TBMF,Transects,Field,0.67,4.23,2.70371966,4.399272667,21,21,0.975000388
+CLOU,Bees,Edge,Cereal,Gradient,51.58,8.17,TBMF,Transects,Field,2.08,5.27,3.391106014,6.094825674,21,21,0.6468147
+EKRO,Bumblebees,Edge,Cereal,Simple,60.67,25.63,BF/T,Transects,Field,1.14,1.4,0.5,0.4,40,15,0.574243936
+EKRO,Butterflies,Edge,Cereal,Simple,60.67,25.63,BF/T,Transects,Field,0.99,0.98,0.26,0.2,40,15,-0.043113061
+FEBE,Butterflies,Center,Mixed,N/A,51.76,-1.25,TBMF,Transects,Farm,7.6,10.32,3.130654884,3.130654884,10,10,0.868827802
+FEBE,Butterflies,Margin,Mixed,N/A,51.76,-1.25,TBMF,Transects,Farm,11.65,16.32,1.897366596,4.332320394,10,10,1.396395992
+FEBE,Butterflies,Center,Mixed,N/A,51.76,-1.25,TBMF,Transects,Farm,8.82,11.88,3.06740933,3.383637096,10,10,0.947545542
+FEBE,Butterflies,Margin,Mixed,N/A,51.76,-1.25,TBMF,Transects,Farm,14.34,15.64,2.181971586,3.668242086,10,10,0.430744679
+FEBE,Butterflies,Center,Mixed,N/A,51.76,-1.25,TBMF,Transects,Farm,9.68,10.95,3.035786554,3.035786554,10,10,0.418342982
+FEBE,Butterflies,Margin,Mixed,N/A,51.76,-1.25,TBMF,Transects,Farm,15.18,15.73,1.865743819,3.573373756,10,10,0.192952764
+FORR,Bees,Center,Mixed,Complex,38.88,-122.23,MFWS,Sweep Nets,Farm,28.46,40.55,9.125458781,12.39934597,4,5,1.110582529
+GABR,Bumblebees,Margin,Cereal,Complex,52.36,-1.22,TBMF,Combination,Field,1.5,1.9,0.783836718,0.747596148,96,69,0.522240386
+GABR,Butterflies,Margin,Cereal,Complex,52.36,-1.22,TBMF,Combination,Field,1.1,1.4,0.881816307,0.996794864,96,69,0.318788357
+GABR,Hoverflies,Margin,Cereal,Complex,52.36,-1.22,TBMF,Combination,Field,2,1.9,1.077775487,0.913728625,96,69,-0.100087615
+GABR,Solitary Bees,Margin,Cereal,Complex,52.36,-1.22,TBMF,Combination,Field,1.2,1.4,0.783836718,0.830662386,96,69,0.247650722
+GAYE,Bees,Center,Cereal,Gradient,48.53,9.4,TBMF,Transects,Field,0.7,1.36,1.64924225,1.814166475,17,17,0.380696027
+GAYE,Bees,Edge,Cereal,Gradient,48.53,9.4,TBMF,Transects,Field,0.39,1.19,0.6596969,1.608011194,17,17,0.650933781
+GAYE,Butterflies,Center,Cereal,Gradient,48.53,9.4,TBMF,Transects,Field,1.84,3.78,1.855397532,3.422177669,17,17,0.704783864
+GAYE,Butterflies,Edge,Cereal,Gradient,48.53,9.4,TBMF,Transects,Field,1.81,3.76,1.772935419,3.504639782,17,17,0.702143308
+GEPP,Bumblebees,Edge,Cereal,Simple,51.53,9.94,TBMF,Combination,Field,0.64,2,0.87,1.23,9,9,1.276615492
+GEPP,Hoverflies,Edge,Cereal,Simple,51.53,9.94,TBMF,Combination,Field,2.57,4.04,1.2,2.31,9,9,0.798624132
+GEPP,Solitary Bees,Edge,Cereal,Simple,51.53,9.94,TBMF,Combination,Field,0.75,1.53,1.26,1.26,9,9,0.619047619
+GODE,Butterflies,Center,Cereal,Complex,42.75,-7.93,TBMF,Transects,Farm,4.1,5.1,11.61895004,9.295160031,15,15,0.095044325
+HAPP,Bumblebees,Edge,Cereal,Complex,52.64,9.85,TBMF,Pan Traps,Field,3.55,3.79,0.9,0.99,9,9,0.253680797
+HAPP,Bumblebees,Edge,Cereal,Simple,51.01,10.85,TBMF,Pan Traps,Field,2.11,2.9,1.47,1.26,9,9,0.577049849
+HAPP,Solitary Bees,Edge,Cereal,Complex,52.64,9.85,TBMF,Pan Traps,Field,9.67,10.53,3.48,4.89,9,9,0.202640629
+HAPP,Solitary Bees,Edge,Cereal,Simple,51.01,10.85,TBMF,Pan Traps,Field,10.51,13.69,7.14,7.62,9,9,0.430666639
+HAUS,Lepidoptera,Edge,Pasture,N/A,48.5,11.53,TBMF,Other,Farm,266.5,209.5,85.45097559,64.06073936,2,2,-0.754796504
+HOLZ07,Bees,Edge+Center,Cereal,Gradient,51.53,9.93,TBMF,Transects,Field,3.09,8.44,1.719738352,2.963241468,7,7,2.208341213
+HOLZ07,Bees,Edge+Center,Cereal,Gradient,50.82,8.77,TBMF,Transects,Field,2.62,6.74,1.878483431,2.698666337,7,7,1.772022523
+HOLZ07,Bees,Edge+Center,Cereal,Gradient,51.58,8.12,TBMF,Transects,Field,1.36,5.75,1.719738352,2.778038877,7,7,1.900183647
+HOLZ10,Bees,Center,Cereal,Gradient,51.53,9.93,TBMF,Trap Nests,Field,1.03,1.26,0.575499783,0.671416413,23,23,0.367823487
+HOLZ10,Bees,Fallow Strip,Cereal,Gradient,51.53,9.93,TBMF,Trap Nests,Field,1.33,1.58,0.767333044,0.719374729,23,23,0.336138727
+HOLZ10,Wasps,Center,Cereal,Gradient,51.53,9.93,TBMF,Trap Nests,Field,0.69,1.34,1.150999566,1.198957881,23,23,0.55308634
+HOLZ10,Wasps,Margin,Cereal,Gradient,51.53,9.93,TBMF,Trap Nests,Field,1.62,1.91,1.198957881,1.246916196,23,23,0.237088468
+HUBE,Bees,Edge,Cereal,N/A,48.65,9.38,TBMF,Transects,Farm,2.57,2.66,1.233288287,1.005385498,10,7,0.07999131
+HUBE,Bees,Edge,Cereal,N/A,48.65,9.38,TBMF,Transects,Farm,2.58,2.65,1.296533841,1.031843011,10,7,0.059742927
+JONA11,Butterflies,Margin,Cereal,Gradient,59.86,17.64,TBMF,Transects,Field,8.4,10.3,1.341640786,2.529822128,20,40,0.938343117
+JONA13,Moths,Margin,Mixed,Gradient,59.97,16.78,TBMF,Pan Traps,Field,6.86,6.18,2.199601098,1.889715366,6,6,-0.331623107
+KEHI12,Bees,Edge,Perrenial,N/A,-33,18,MFWS,Combination,Field,9.05,7.9,5.829785588,4.066152973,6,6,-0.228813249
+KRAU,Pollinating Insects,Center,Cereal,Complex,49.93,11.57,TBMF,Transects,Field,0.14,6.25,0.426028168,3.059656844,15,15,2.797137052
+KRAU,Pollinating Insects,Edge,Cereal,Complex,49.93,11.57,TBMF,Transects,Field,0.68,10.34,0.929516003,4.686309849,15,15,2.859446494
+KREM,Bees,Edge,Other,Simple,38.68,-121.77,TGSS,Transects,Farm,3.67,4.01,1.02,0.872066511,4,5,0.358301904
+LORA,Bees,Across System,Mixed,Complex,31.4,52.62,DXS,Pan Traps,Farm,20.33333333,20.66666667,6.519711708,6.3194365,3,3,0.051918209
+MARJ14,Bumblebees,Margin,Cereal,Simple,57.87,26.95,TBMF,Transects,Farm,6.86,8.89,1.691478643,1.989974874,11,11,1.09921799
+MARJ14,Bumblebees,Margin,Cereal,Simple,59.07,26.2,TBMF,Transects,Farm,5.28,6.95,1.625146147,1.26031742,11,11,1.148383528
+MARJ21,Bumblebees,Margin,Cereal,Simple,57.87,26.95,TBMF,Transects,Farm,3.22,5.22,1.83,2.01,9,9,1.04052414
+MARJ21,Bumblebees,Margin,Cereal,Simple,57.87,26.95,TBMF,Transects,Farm,4.48,4.2,2.25,3.16227766,9,10,-0.102029204
+MARJ21,Bumblebees,Margin,Cereal,Simple,57.87,26.95,TBMF,Transects,Farm,3.11,5.78,3.54,3.224406922,9,8,0.788568427
+MARJ21,Bumblebees,Margin,Cereal,Simple,59.07,26.2,TBMF,Transects,Farm,0.82,2.25,1.126765282,1.470782105,6,8,1.091507652
+MARJ21,Bumblebees,Margin,Cereal,Simple,59.07,26.2,TBMF,Transects,Farm,1.88,5.21,1.74,1.35,9,9,2.138375081
+MARJ21,Bumblebees,Margin,Cereal,Simple,59.07,26.2,TBMF,Transects,Farm,1.65,3.17,2.008581589,2.718933614,6,6,0.63590534
+MART,Bees,Across System,Perrenial,Gradient,37.98,-4.13,MFWS,Trap Nests,Farm,4,4,3,6,9,9,0
+PADM,Butterflies,Margin,Mixed,N/A,11.87,79.75,TSDBF,Transects,Farm,0.98,2.43,0.314228728,1.0044785,15,15,1.948357458
+POWE11,Bees,Center,Pasture,Complex,52.47,-8.16,TBMF,Transects,Farm,0.79,1.98,0.537587202,0.695701085,10,10,1.914133448
+POWE11,Bees,Edge,Pasture,Complex,52.47,-8.16,TBMF,Transects,Farm,3.61,3.1,1.328156617,0.948683298,10,10,-0.441893958
+POWE11,Hoverflies,Center,Pasture,Complex,52.47,-8.16,TBMF,Transects,Farm,2.04,2.34,3.035786554,3.130654884,10,10,0.097289338
+POWE11,Hoverflies,Edge,Pasture,Complex,52.47,-8.16,TBMF,Transects,Farm,5.48,6.09,3.16227766,2.972541001,10,10,0.198769842
+POWE16,Hoverflies,Across System,Pasture,Complex,52.47,-8.16,TBMF,Combination,Farm,25.97,26.94,8.327061298,8.237691257,9,9,0.117114443
+PUIG,Butterflies,Edge,Perrenial,Complex,41.13,0.82,MFWS,Combination,Plot,3.8,4,1.218437926,1.223116742,10,10,0.16382974
+PUIG,Moths,Center,Perrenial,Complex,41.13,0.82,MFWS,Combination,Plot,18.9,18.5,6.060125473,5.656914932,10,10,-0.068236236
+RUND06,Butterflies,Margin,Cereal,Complex,55.99,13.6,TBMF,Transects,Farm,0.3,0.9,0.048989795,0.122474487,6,6,6.432675209
+RUND06,Butterflies,Margin,Cereal,Complex,55.99,13.6,TBMF,Transects,Farm,1.4,1.61,0.122474487,0.171464282,6,6,1.409427716
+RUND08,Bumblebees,Margin,Cereal,Complex,55.99,13.6,TBMF,Transects,Farm,0.74,2.6,0.318433667,0.489897949,6,6,4.501903522
+RUND08,Bumblebees,Margin,Cereal,Complex,55.99,13.6,TBMF,Transects,Farm,2.09,2.78,0.440908154,0.612372436,6,6,1.293169215
+SIDE,Bumblebees,Center,Cereal,Simple,55.99,13.6,TBMF,Transects,Field,2.1,3.5,0.8,1.3,18,20,1.297074953
+TUCK,Bees,Across System,Perrenial,Complex,43.24,-71.02,TBMF,Combination,Farm,133.58,165.58,10.91192009,14.02961154,12,12,2.546186219
+UZMA,Wasps,Center,Perrenial,Gradient,49.85,8.35,TBMF,Trap Nests,Farm,1.32,1.44,1.496662955,1.239354671,14,15,0.087333376
+VILL,Pollinating Insects,Across System,Perrenial,N/A,19.57,-101.71,TSCF,Other,Farm,16,23.5,9.4,5.2,4,6,0.987355061
+WEIB,Butterflies,Margin,Cereal,N/A,58.86,17.64,TBMF,Transects,Farm,21.4,20.2,2.966479395,2.167948339,5,5,-0.461880215
+WEIB,Butterflies,Margin,Cereal,N/A,59.03,16.75,TBMF,Transects,Farm,23.66666667,24,2.309401077,2.645751311,3,3,0.134231211
