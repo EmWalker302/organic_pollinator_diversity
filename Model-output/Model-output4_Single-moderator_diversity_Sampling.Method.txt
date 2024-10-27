@@ -1,0 +1,30 @@
+
+Multivariate Meta-Analysis Model (k = 75; method: REML)
+
+  logLik  Deviance       AIC       BIC      AICc   
+-72.3297  144.6594  158.6594  174.3989  160.4659   
+
+Variance Components:
+
+            estim    sqrt  nlvls  fixed    factor 
+sigma^2.1  0.0163  0.1278     75     no    Obs.ID 
+sigma^2.2  0.3470  0.5890     35     no  StudyNum 
+
+Test for Residual Heterogeneity:
+QE(df = 70) = 159.9338, p-val < .0001
+
+Test of Moderators (coefficients 1:5):
+F(df1 = 5, df2 = 70) = 7.5604, p-val < .0001
+
+Model Results:
+
+                            estimate      se    tval  df    pval    ci.lb   ci.ub      
+Sampling.MethodCombination    0.5231  0.2686  1.9478  70  0.0555  -0.0125  1.0588    . 
+Sampling.MethodOther          0.5400  0.5008  1.0784  70  0.2845  -0.4587  1.5387      
+Sampling.MethodPan Traps      0.1340  0.3906  0.3431  70  0.7325  -0.6450  0.9130      
+Sampling.MethodTransects      0.9310  0.1633  5.7026  70  <.0001   0.6054  1.2567  *** 
+Sampling.MethodTrap Nests     0.1803  0.3959  0.4556  70  0.6501  -0.6092  0.9699      
+
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+

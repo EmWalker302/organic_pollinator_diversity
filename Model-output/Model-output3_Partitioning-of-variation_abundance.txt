@@ -1,0 +1,2 @@
+  samplingvar withinstudyvar betweenstudyvar
+1    15.34787       16.43916        68.21297
