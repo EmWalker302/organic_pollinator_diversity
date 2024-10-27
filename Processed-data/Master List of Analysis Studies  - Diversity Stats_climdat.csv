@@ -1,0 +1,77 @@
+"","Reference.ID","Taxonomic.Category","Edge.Center.Margin","Cropping.System","Landscape.Complexity","Latitude..N","Longitude..E","Sampling.Method","Con..Mean","Org..Mean","Con..SD","Org..SD","Con..n","Org..n","Hedges.g","Temp","Prec"
+"1","ADHI","Bees","Center","Cereal","Simple",40.23,-110,"Pan Traps",25,27,6,9,9,9,0.249036362,7.6,195
+"2","BOUT","Moths","Center","Mixed","Simple",44.2,-78.4,"Other",10.875,12.3375,1.255559067,3.258806749,8,8,0.560512828,6.2,804
+"3","BOUT","Moths","Margin","Mixed","Simple",44.2,-78.4,"Other",17.0125,19.4875,1.923120604,4.256234922,8,8,0.749416512,6.2,804
+"4","BRIT","Bees","Center","Perennial","Simple",45.65,12.42,"Combination",5.3,5.9,1.71464282,1.469693846,6,6,0.375734575,13.1,943
+"5","BRIT","Pollinating Insects","Center","Perennial","Simple",45.65,12.42,"Combination",0.9,1.3,0.489897949,0.734846923,6,6,0.640512615,13.1,943
+"6","CLOU","Bees","Center","Cereal","Gradient",51.58,8.17,"Transects",0.67,4.23,2.70371966,4.399272667,21,21,0.975000388,8.9,852
+"7","CLOU","Bees","Edge","Cereal","Gradient",51.58,8.17,"Transects",2.08,5.27,3.391106014,6.094825674,21,21,0.6468147,8.9,852
+"8","EKRO","Bumblebees","Edge","Cereal","Simple",60.67,25.63,"Transects",1.14,1.4,0.5,0.4,40,15,0.574243936,4.3,642
+"9","EKRO","Butterflies","Edge","Cereal","Simple",60.67,25.63,"Transects",0.99,0.98,0.26,0.2,40,15,-0.043113061,4.3,642
+"10","FEBE","Butterflies","Center","Mixed",NA,51.76,-1.25,"Transects",7.6,10.32,3.130654884,3.130654884,10,10,0.868827802,9.8,633
+"11","FEBE","Butterflies","Margin","Mixed",NA,51.76,-1.25,"Transects",11.65,16.32,1.897366596,4.332320394,10,10,1.396395992,9.8,633
+"12","FEBE","Butterflies","Center","Mixed",NA,51.76,-1.25,"Transects",8.82,11.88,3.06740933,3.383637096,10,10,0.947545542,9.8,633
+"13","FEBE","Butterflies","Margin","Mixed",NA,51.76,-1.25,"Transects",14.34,15.64,2.181971586,3.668242086,10,10,0.430744679,9.8,633
+"14","FEBE","Butterflies","Center","Mixed",NA,51.76,-1.25,"Transects",9.68,10.95,3.035786554,3.035786554,10,10,0.418342982,9.8,633
+"15","FEBE","Butterflies","Margin","Mixed",NA,51.76,-1.25,"Transects",15.18,15.73,1.865743819,3.573373756,10,10,0.192952764,9.8,633
+"16","FORR","Bees","Center","Mixed","Complex",38.88,-122.23,"Sweep Nets",28.46,40.55,9.125458781,12.39934597,4,5,1.110582529,14.7,669
+"17","GABR","Bumblebees","Margin","Cereal","Complex",52.36,-1.22,"Combination",1.5,1.9,0.783836718,0.747596148,96,69,0.522240386,9.3,639
+"18","GABR","Butterflies","Margin","Cereal","Complex",52.36,-1.22,"Combination",1.1,1.4,0.881816307,0.996794864,96,69,0.318788357,9.3,639
+"19","GABR","Hoverflies","Margin","Cereal","Complex",52.36,-1.22,"Combination",2,1.9,1.077775487,0.913728625,96,69,-0.100087615,9.3,639
+"20","GABR","Solitary Bees","Margin","Cereal","Complex",52.36,-1.22,"Combination",1.2,1.4,0.783836718,0.830662386,96,69,0.247650722,9.3,639
+"21","GAYE","Bees","Center","Cereal","Gradient",48.53,9.4,"Transects",0.7,1.36,1.64924225,1.814166475,17,17,0.380696027,8.5,768
+"22","GAYE","Bees","Edge","Cereal","Gradient",48.53,9.4,"Transects",0.39,1.19,0.6596969,1.608011194,17,17,0.650933781,8.5,768
+"23","GAYE","Butterflies","Center","Cereal","Gradient",48.53,9.4,"Transects",1.84,3.78,1.855397532,3.422177669,17,17,0.704783864,8.5,768
+"24","GAYE","Butterflies","Edge","Cereal","Gradient",48.53,9.4,"Transects",1.81,3.76,1.772935419,3.504639782,17,17,0.702143308,8.5,768
+"25","GEPP","Bumblebees","Edge","Cereal","Simple",51.53,9.94,"Combination",0.64,2,0.87,1.23,9,9,1.276615492,8.3,695
+"26","GEPP","Hoverflies","Edge","Cereal","Simple",51.53,9.94,"Combination",2.57,4.04,1.2,2.31,9,9,0.798624132,8.3,695
+"27","GEPP","Solitary Bees","Edge","Cereal","Simple",51.53,9.94,"Combination",0.75,1.53,1.26,1.26,9,9,0.619047619,8.3,695
+"28","GODE","Butterflies","Center","Cereal","Complex",42.75,-7.93,"Transects",4.1,5.1,11.61895004,9.295160031,15,15,0.095044325,11.9,1247
+"29","HAPP","Bumblebees","Edge","Cereal","Complex",52.64,9.85,"Pan Traps",3.55,3.79,0.9,0.99,9,9,0.253680797,8.8,658
+"30","HAPP","Bumblebees","Edge","Cereal","Simple",51.01,10.85,"Pan Traps",2.11,2.9,1.47,1.26,9,9,0.577049849,8.5,510
+"31","HAPP","Solitary Bees","Edge","Cereal","Complex",52.64,9.85,"Pan Traps",9.67,10.53,3.48,4.89,9,9,0.202640629,8.8,658
+"32","HAPP","Solitary Bees","Edge","Cereal","Simple",51.01,10.85,"Pan Traps",10.51,13.69,7.14,7.62,9,9,0.430666639,8.5,510
+"33","HAUS","Lepidoptera","Edge","Pasture",NA,48.5,11.53,"Other",266.5,209.5,85.45097559,64.06073936,2,2,-0.754796504,7.9,800
+"34","HOLZ07","Bees","Edge+Center","Cereal","Gradient",51.53,9.93,"Transects",3.09,8.44,1.719738352,2.963241468,7,7,2.208341213,8.3,695
+"35","HOLZ07","Bees","Edge+Center","Cereal","Gradient",50.82,8.77,"Transects",2.62,6.74,1.878483431,2.698666337,7,7,1.772022523,8.7,753
+"36","HOLZ07","Bees","Edge+Center","Cereal","Gradient",51.58,8.12,"Transects",1.36,5.75,1.719738352,2.778038877,7,7,1.900183647,9.1,836
+"37","HOLZ10","Bees","Center","Cereal","Gradient",51.53,9.93,"Trap Nests",1.03,1.26,0.575499783,0.671416413,23,23,0.367823487,8.3,695
+"38","HOLZ10","Bees","Fallow Strip","Cereal","Gradient",51.53,9.93,"Trap Nests",1.33,1.58,0.767333044,0.719374729,23,23,0.336138727,8.3,695
+"39","HOLZ10","Wasps","Center","Cereal","Gradient",51.53,9.93,"Trap Nests",0.69,1.34,1.150999566,1.198957881,23,23,0.55308634,8.3,695
+"40","HOLZ10","Wasps","Margin","Cereal","Gradient",51.53,9.93,"Trap Nests",1.62,1.91,1.198957881,1.246916196,23,23,0.237088468,8.3,695
+"41","HUBE","Bees","Edge","Cereal",NA,48.65,9.38,"Transects",2.57,2.66,1.233288287,1.005385498,10,7,0.07999131,8.5,768
+"42","HUBE","Bees","Edge","Cereal",NA,48.65,9.38,"Transects",2.58,2.65,1.296533841,1.031843011,10,7,0.059742927,8.5,768
+"43","JONA11","Butterflies","Margin","Cereal","Gradient",59.86,17.64,"Transects",8.4,10.3,1.341640786,2.529822128,20,40,0.938343117,5.6,558
+"44","JONA13","Moths","Margin","Mixed","Gradient",59.97,16.78,"Pan Traps",6.86,6.18,2.199601098,1.889715366,6,6,-0.331623107,5.4,590
+"45","KEHI12","Bees","Edge","Perennial","Complex",-33,18,"Combination",9.05,7.9,5.829785588,4.066152973,6,6,-0.228813249,17.2,285
+"46","KRAU","Pollinating Insects","Center","Cereal","Complex",49.93,11.57,"Transects",0.14,6.25,0.426028168,3.059656844,15,15,2.797137052,8,674
+"47","KRAU","Pollinating Insects","Edge","Cereal","Complex",49.93,11.57,"Transects",0.68,10.34,0.929516003,4.686309849,15,15,2.859446494,8,674
+"48","KREM","Bees","Edge","Other","Simple",38.68,-121.77,"Transects",3.67,4.01,1.02,0.872066511,4,5,0.358301904,16.2,473
+"49","LORA","Bees","Across System","Mixed","Complex",31.4,52.62,"Pan Traps",20.33333333,20.66666667,6.519711708,6.3194365,3,3,0.051918209,14.4,150
+"50","MARJ14","Bumblebees","Margin","Cereal","Simple",57.87,26.95,"Transects",6.86,8.89,1.691478643,1.989974874,11,11,1.09921799,4.9,616
+"51","MARJ14","Bumblebees","Margin","Cereal","Simple",59.07,26.2,"Transects",5.28,6.95,1.625146147,1.26031742,11,11,1.148383528,4.6,630
+"52","MARJ21","Bumblebees","Margin","Cereal","Simple",57.87,26.95,"Transects",3.22,5.22,1.83,2.01,9,9,1.04052414,4.9,616
+"53","MARJ21","Bumblebees","Margin","Cereal","Simple",57.87,26.95,"Transects",4.48,4.2,2.25,3.16227766,9,10,-0.102029204,4.9,616
+"54","MARJ21","Bumblebees","Margin","Cereal","Simple",57.87,26.95,"Transects",3.11,5.78,3.54,3.224406922,9,8,0.788568427,4.9,616
+"55","MARJ21","Bumblebees","Margin","Cereal","Simple",59.07,26.2,"Transects",0.82,2.25,1.126765282,1.470782105,6,8,1.091507652,4.6,630
+"56","MARJ21","Bumblebees","Margin","Cereal","Simple",59.07,26.2,"Transects",1.88,5.21,1.74,1.35,9,9,2.138375081,4.6,630
+"57","MARJ21","Bumblebees","Margin","Cereal","Simple",59.07,26.2,"Transects",1.65,3.17,2.008581589,2.718933614,6,6,0.63590534,4.6,630
+"58","MART","Bees","Across System","Perennial","Gradient",37.98,-4.13,"Trap Nests",4,4,3,6,9,9,0,17.4,525
+"59","PADM","Butterflies","Margin","Mixed",NA,11.87,79.75,"Transects",0.98,2.43,0.314228728,1.0044785,15,15,1.948357458,28.3,1152
+"60","POWE11","Bees","Center","Pasture","Complex",52.47,-8.16,"Transects",0.79,1.98,0.537587202,0.695701085,10,10,1.914133448,9,1112
+"61","POWE11","Bees","Edge","Pasture","Complex",52.47,-8.16,"Transects",3.61,3.1,1.328156617,0.948683298,10,10,-0.441893958,9,1112
+"62","POWE11","Hoverflies","Center","Pasture","Complex",52.47,-8.16,"Transects",2.04,2.34,3.035786554,3.130654884,10,10,0.097289338,9,1112
+"63","POWE11","Hoverflies","Edge","Pasture","Complex",52.47,-8.16,"Transects",5.48,6.09,3.16227766,2.972541001,10,10,0.198769842,9,1112
+"64","POWE16","Hoverflies","Across System","Pasture","Complex",52.47,-8.16,"Combination",25.97,26.94,8.327061298,8.237691257,9,9,0.117114443,9,1112
+"65","PUIG","Butterflies","Edge","Perennial","Complex",41.13,0.82,"Combination",3.8,4,1.218437926,1.223116742,10,10,0.16382974,15,566
+"66","PUIG","Moths","Center","Perennial","Complex",41.13,0.82,"Combination",18.9,18.5,6.060125473,5.656914932,10,10,-0.068236236,15,566
+"67","RUND06","Butterflies","Margin","Cereal","Simple",55.99,13.6,"Transects",0.3,0.9,0.048989795,0.122474487,6,6,6.432675209,7.4,696
+"68","RUND06","Butterflies","Margin","Cereal","Complex",55.99,13.6,"Transects",1.4,1.61,0.122474487,0.171464282,6,6,1.409427716,7.4,696
+"69","RUND08","Bumblebees","Margin","Cereal","Simple",55.99,13.6,"Transects",0.74,2.6,0.318433667,0.489897949,6,6,4.501903522,7.4,696
+"70","RUND08","Bumblebees","Margin","Cereal","Complex",55.99,13.6,"Transects",2.09,2.78,0.440908154,0.612372436,6,6,1.293169215,7.4,696
+"71","SIDE","Bumblebees","Center","Cereal","Simple",55.99,13.6,"Transects",2.1,3.5,0.8,1.3,18,20,1.297074953,7.4,696
+"72","TUCK","Bees","Across System","Perrenial","Complex",43.24,-71.02,"Combination",133.58,165.58,10.91192009,14.02961154,12,12,2.546186219,7.4,1129
+"73","UZMA","Wasps","Center","Perennial","Gradient",49.85,8.35,"Trap Nests",1.32,1.44,1.496662955,1.239354671,14,15,0.087333376,9.9,584
+"74","VILL","Pollinating Insects","Across System","Perennial",NA,19.57,-101.71,"Other",16,23.5,9.4,5.2,4,6,0.987355061,14.6,1126
+"75","WEIB","Butterflies","Margin","Cereal",NA,58.86,17.64,"Transects",21.4,20.2,2.966479395,2.167948339,5,5,-0.461880215,6.9,512
+"76","WEIB","Butterflies","Margin","Cereal",NA,59.03,16.75,"Transects",23.66666667,24,2.309401077,2.645751311,3,3,0.134231211,6.3,573
